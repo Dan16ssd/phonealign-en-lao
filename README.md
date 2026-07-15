@@ -1,6 +1,7 @@
-# phonalign
+# Phonealign (en+lao)
 
 Audio-to-phoneme forced alignment for TTS dataset preprocessing.
+(The pip package and CLI command are still `phonalign`.)
 
 Point it at a folder of audio + transcripts and it produces training-ready
 artifacts for VITS/VITS2, FastSpeech2, and other TTS architectures:
